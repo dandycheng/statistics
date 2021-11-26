@@ -6,9 +6,9 @@ This repo records my statistics learning journey. Notes are taken to make sure t
 **If you find any mistakes I've made, or there are potential improvements, please let me know!**
 
 ## Table of contents
-1. [Range and Interquartile Range](https://github.com/dandycheng/statistics/blob/master/Range%20and%20Interquartile%20Range.ipynb)
-2. [Variance and Standard Deviation](https://github.com/dandycheng/statistics/blob/master/Variance%20and%20Standard%20Deviation.ipynb)
-3. [Z-Score](https://github.com/dandycheng/statistics/blob/master/Z-Score.ipynb)
+1. [Range and Interquartile Range](../master/Range%20and%20Interquartile%20Range.ipynb)
+2. [Variance and Standard Deviation](../master/Variance%20and%20Standard%20Deviation.ipynb)
+3. [Z-Score](../master/Z-Score.ipynb)
 4. [Correlation](../master/Correlation.ipynb)
 
 ## Sources:
