@@ -9,6 +9,7 @@ This repo records my statistics learning journey. Notes are taken to make sure t
 1. [Range and Interquartile Range](https://github.com/dandycheng/statistics/blob/master/Range%20and%20Interquartile%20Range.ipynb)
 2. [Variance and Standard Deviation](https://github.com/dandycheng/statistics/blob/master/Variance%20and%20Standard%20Deviation.ipynb)
 3. [Z-Score](https://github.com/dandycheng/statistics/blob/master/Z-Score.ipynb)
+4. [Correlation](../blob/master/Correlation.ipynb)
 
 ## Sources:
 
