@@ -1,4 +1,4 @@
-_"If you can't explain it to a 6-year-old, you don't understand it yourself."_ - Albert Einstein
+*"If you can't explain it to a 6-year-old, you don't understand it yourself."* - Albert Einstein
 
 ---
 
