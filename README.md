@@ -10,6 +10,7 @@ This repo records my statistics learning journey. Notes are taken to make sure t
 2. [Variance and Standard Deviation](../master/Variance%20and%20Standard%20Deviation.ipynb)
 3. [Z-Score](../master/Z-Score.ipynb)
 4. [Correlation](../master/Correlation.ipynb)
+5. [Regression Line](../master/Regression%20Line.ipynb)
 
 ## Sources:
 
