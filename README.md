@@ -11,6 +11,7 @@ This repo records my statistics learning journey. Notes are taken to make sure t
 3. [Z-Score](../master/Z-Score.ipynb)
 4. [Correlation](../master/Correlation.ipynb)
 5. [Regression Line](../master/Regression%20Line.ipynb)
+6. [Measuring goodness-of-fit with R Squared](../master/Measuring%20goodness-of-fit%20with%20R-Squared.ipynb)
 
 ## Sources:
 
