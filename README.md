@@ -5,6 +5,8 @@
 This repo records my statistics learning journey. Notes are taken to make sure that I can understand what I'm learning, and hopefully it will help you too.
 **If you find any mistakes I've made, or there are potential improvements, please let me know!**
 
+If you're unable to see the mathematical equations on GitHub's preview, you can download it and open with either Jupyter Notebook, Google Colab, or Kaggle Kernel.
+
 ## Table of contents
 1. [Range and Interquartile Range](../master/Range%20and%20Interquartile%20Range.ipynb)
 2. [Variance and Standard Deviation](../master/Variance%20and%20Standard%20Deviation.ipynb)
